@@ -3,5 +3,3 @@
  * to store the examples.
  */
 package com.example;
-
- 
